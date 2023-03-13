@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style-type: none
+}
+
+body {
+    padding: 25px 100px 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+
+h1 {
+    background-color: rgb(149, 149, 149);
+    color: white;
+    font-size: 400%;
+}
+.navigation-bar li {
+    padding-top: 10%;
+    list-style-type: none;
+    font-size: 150%;
+
+}
+.navigation-bar {
+    background-image: url("img/foodlogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 30%;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: rgb(92, 92, 92);
+    font-size: 50px;
+}
+
+.method {
+    padding-top: 40px;
+}
+
+
